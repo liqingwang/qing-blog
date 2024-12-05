@@ -10,9 +10,6 @@
   * [设计模式]()
   * [系统架构]()
   * [项目]()
-
-* 读书
-  * [TODO]()
     
 * 关于
   * [docsify](/docs/docsify/README.md)
