@@ -1,9 +1,9 @@
 # 青的博客  <!-- {docsify-ignore-all} -->
 > 学习记录，留下痕迹
 
-## Java
+## [Java](/docs/java/java.md)
 
-### JVM
+### [JVM](/docs/java/jvm/jvm.md "Java虚拟机")
 
 ## AI
 
@@ -13,7 +13,15 @@
 
 ## 系统架构
 
+## 开发运维
+
+### [WSL](/docs/devops/wsl/wsl.md) 
+- [WSL命令记录](/docs/devops/wsl/wsl-cmd.md)
+
 ## 项目
+
+## [关于]()
+### [docsify](/docs/about/docsify/docsify.md "博客技术")
 
 
 

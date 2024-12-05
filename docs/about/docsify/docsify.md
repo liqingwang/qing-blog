@@ -1,4 +1,4 @@
-<!-- /docs/java/README.md（简述JAVA知识点） -->
+<!-- /docs/about/docsify/docsify.md（简述JAVA知识点） -->
 # docsify
 > 本站使用 [docsify](https://docsify.js.org/#/zh-cn/) 生成,本章节记录一些docsify操作示例
 
