@@ -12,4 +12,15 @@ window.$docsify = {
     },
     auto2top: true,  //切换页面后是否自动跳转到页面顶部。
 
+    search: {
+        maxAge: 1800000, // 过期时间，单位毫秒
+        paths: [
+            '/docs/about/',
+            '/docs/about/docsify/',
+            '/docs/devops/',
+            '/docs/java/',
+        ],
+        depth: 3,
+    }
+
 }
