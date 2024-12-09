@@ -19,12 +19,14 @@
 -   [项目](docs/project/README.md)
 
 -   [开发运维](docs/devops/README.md)
-    -   [WSL命令](docs/devops/wsl/wsl-cmd.md)
-    -   [docker](docs/devops/docker/README.md)
-        -   [docker命令](docs/devops/docker/docker-cmd.md)
-        -   [docker镜像安装](docs/devops/docker/install-docker-image.md)
+    -   [Linux](docs/devops/linux/README.md)
+        -   [Linux命令](docs/devops/linux/linux-cmd.md)
+    -   [Docker](docs/devops/docker/README.md)
+        -   [Docker命令](docs/devops/docker/docker-cmd.md)
+        -   [Docker镜像安装](docs/devops/docker/install-docker-image.md)
     -   [Git](docs/devops/git/README.md)
         -   [Git命令](docs/devops/git/git-cmd.md)
+    -   [WSL命令](docs/devops/wsl/wsl-cmd.md)
 
 -   [AI](docs/ai/README.md)
 
