@@ -23,6 +23,8 @@
     -   [docker](docs/devops/docker/README.md)
         -   [docker命令](docs/devops/docker/docker-cmd.md)
         -   [docker镜像安装](docs/devops/docker/install-docker-image.md)
+    -   [Git](docs/devops/git/README.md)
+        -   [Git命令](docs/devops/git/git-cmd.md)
 
 -   [AI](docs/ai/README.md)
 
