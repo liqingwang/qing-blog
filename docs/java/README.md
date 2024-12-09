@@ -1,4 +1,4 @@
-# Java <!-- {docsify-ignore-all} -->
+# Java
 
 ## 标题 1
 

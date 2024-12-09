@@ -1,1 +1,1 @@
-# 设计模式 <!-- {docsify-ignore-all} -->
+# 设计模式
