@@ -1,5 +1,4 @@
-<!-- /docs/java/jvm/wsl.md（简述jvm知识点） -->
-# JVM
+# JVM <!-- {docsify-ignore-all} -->
 
 ## 标题 1
 

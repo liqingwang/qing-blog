@@ -1,5 +1,5 @@
-<!-- /docs/java/wsl.md（简述JAVA知识点） -->
-# Java
+# Docsify
+> 本站使用 [docsify](https://docsify.js.org/#/zh-cn/) 生成,本文记录一些Docsify操作示例
 
 ## 标题 1
 
