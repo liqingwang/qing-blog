@@ -24,9 +24,12 @@
     -   [Docker](docs/devops/docker/README.md)
         -   [Docker命令](docs/devops/docker/docker-cmd.md)
         -   [Docker镜像安装](docs/devops/docker/install-docker-image.md)
-    -   [Git](docs/devops/git/README.md)
-        -   [Git命令](docs/devops/git/git-cmd.md)
-    -   [WSL命令](docs/devops/wsl/wsl-cmd.md)
+    -   [WSL](docs/devops/wsl.md)
+    -   [pm2](docs/devops/pm2.md)
+    -   [Git](docs/devops/git.md)
+    
+-   [开源软件](docs/open-source-software/README.md)
+    -   [RustDesk](docs/open-source-software/rustdesk.md)
 
 -   [AI](docs/ai/README.md)
 
