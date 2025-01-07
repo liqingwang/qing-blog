@@ -70,3 +70,26 @@ func functionName(parameter_list) (return_value_list) {
 ```
 - 只有当某个函数需要被外部包调用的时候才使用大写字母开头，并遵循 Pascal（帕斯卡） 命名法，既驼峰命名法中的大驼峰式命名规则；否则就遵循骆驼命名法，即第一个单词的首字母小写，其余单词的首字母大写。
   - 驼峰命名法（小驼峰命名规则）如：selectStudentInfo();帕斯卡(Pascal)命名法（大驼峰命名规则）如：SelectStudentInfo(); 
+- 程序正常退出的代码为 0 即 Program exited with code 0，异常终止返回非 0 值如：1。
+
+## 注释
+- 单行注释：// 注释
+- 多行注释又称块注释：/* 注释 */
+- 在package语句之前的块注释被默认为包的文档说明，一个包可以分散在多个文件中，只需要在其中一个进行注释说明即可。想了解包的情况可用godoc来显示文档说明
+- 多段注释应用空行加以区分。 示例：
+``` 
+// Package superman implements methods for saving the world.
+//
+// Experience has shown that a small number of procedures can prove
+// helpful when attempting to save the world.
+package superman
+```
+- 全局作用域的类型、变量、常量、函数、被导出的对象都应该拥有文档注释，文档注释出现在函数前面，应以函数名作为开头，示例：
+``` 
+// enterOrbit causes Superman to fly into low Earth orbit, a position
+// that presents several possibilities for planet salvation.
+func enterOrbit() error {
+   ...
+}
+```
+## 类型
