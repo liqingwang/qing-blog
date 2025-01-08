@@ -5,6 +5,7 @@
 - [Go](/docs/go/README.md)
   - [Go命令](/docs/go/go-command.md)
   - [Go基本结构](/docs/go/go-basic-structure.md)
+  - [Go基本数据类型](/docs/go/go-basic-data-type.md)
 
 - [Python](/docs/python/README.md)
   - [Anaconda教程](/docs/python/anaconda-course.md)
